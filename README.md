@@ -2,9 +2,7 @@
 
 
 
----
 
----
 
 
 ````markdown
@@ -26,7 +24,7 @@ This project demonstrates how to **install and configure the AWS Command Line In
 ---
 
 ## 📑 Project Report
-👉 [Click here to view/download the PDF](https://drive.google.com/drive/folders/1eSM1mZlucByT9-jsJurungfoR64uNT8n)
+👉 [Click here to view/download the PDF](https://drive.google.com/file/d/1KFihEQ5HqwK8bWbmE-v-OdhhMLvWkx4w/view?usp=drive_link)
 
 ---
 
